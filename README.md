@@ -1,0 +1,5 @@
+- JWT Authentication (refresh token mechanism)
+- MongoDB database
+- Gin web framework
+- CRUD operations
+- pagination
